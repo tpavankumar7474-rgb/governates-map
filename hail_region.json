@@ -5,7 +5,7 @@
       "id": "24",
       "type": "Feature",
       "properties": {
-        "shapeName": "Mawqaq",
+        "name": "Mawqaq",
         "shapeISO": "",
         "shapeID": "3984122B480049909683",
         "shapeGroup": "SAU",
@@ -1470,7 +1470,7 @@
       "id": "25",
       "type": "Feature",
       "properties": {
-        "shapeName": "Baqa",
+        "name": "Baqa",
         "shapeISO": "",
         "shapeID": "3984122B33643384104424",
         "shapeGroup": "SAU",
@@ -4875,7 +4875,7 @@
       "id": "26",
       "type": "Feature",
       "properties": {
-        "shapeName": "Hail",
+        "name": "Hail",
         "shapeISO": "",
         "shapeID": "3984122B95191279844265",
         "shapeGroup": "SAU",
@@ -9260,7 +9260,7 @@
       "id": "27",
       "type": "Feature",
       "properties": {
-        "shapeName": "Ash Shinan",
+        "name": "Ash Shinan",
         "shapeISO": "",
         "shapeID": "3984122B89530353024742",
         "shapeGroup": "SAU",
@@ -11217,7 +11217,7 @@
       "id": "28",
       "type": "Feature",
       "properties": {
-        "shapeName": "As Sulaymi",
+        "name": "As Sulaymi",
         "shapeISO": "",
         "shapeID": "3984122B6814692020878",
         "shapeGroup": "SAU",
@@ -12674,7 +12674,7 @@
       "id": "29",
       "type": "Feature",
       "properties": {
-        "shapeName": "Al Hait",
+        "name": "Al Hait",
         "shapeISO": "",
         "shapeID": "3984122B12009021139817",
         "shapeGroup": "SAU",
@@ -16771,7 +16771,7 @@
       "id": "30",
       "type": "Feature",
       "properties": {
-        "shapeName": "Simira",
+        "name": "Simira",
         "shapeISO": "",
         "shapeID": "3984122B23018380260764",
         "shapeGroup": "SAU",
@@ -18448,7 +18448,7 @@
       "id": "31",
       "type": "Feature",
       "properties": {
-        "shapeName": "Ash Shamli",
+        "name": "Ash Shamli",
         "shapeISO": "",
         "shapeID": "3984122B13662372448842",
         "shapeGroup": "SAU",
@@ -21345,7 +21345,7 @@
       "id": "32",
       "type": "Feature",
       "properties": {
-        "shapeName": "Al Ghazalah",
+        "name": "Al Ghazalah",
         "shapeISO": "",
         "shapeID": "3984122B36085012469316",
         "shapeGroup": "SAU",
@@ -24239,4 +24239,5 @@
       }
     }
   ]
+
 }
